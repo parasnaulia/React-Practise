@@ -1,0 +1,10 @@
+.Container {
+      background-color: aqua;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      /* Adjust the height of the outer container as needed */
+    }
+    
+
+    

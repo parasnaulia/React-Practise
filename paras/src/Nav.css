@@ -1,0 +1,39 @@
+.list
+{
+      text-decoration: none;
+      list-style: none;
+
+}
+.container
+{
+      
+      display: flex;
+      flex-direction: row;
+      background-color: burlywood;
+      height: 10vh;
+      
+
+  
+}
+.div1
+{
+      border: 2px solid black;
+      margin:5px 5px 43px 32px;
+      cursor: pointer;
+}
+button
+{
+      position: relative;
+      left:1000px;
+      top: 20px;
+      
+      
+}
+.btn
+{
+      background-color: rgb(116, 116, 190);
+      
+}
+
+
+     

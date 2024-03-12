@@ -1,0 +1,21 @@
+.container
+{
+      display: flex;
+      justify-content: space-around;
+      background-color: coral;
+      margin: 10px 10px;
+      border: 2px solid black;
+      border-radius: 5px;
+
+}
+.container div 
+{
+      font-size: large;
+      font-weight: bold;
+      margin: 10px 10px;
+}
+.btn
+{
+      font-size: large;
+      background-color: rgb(122, 233, 141);
+}

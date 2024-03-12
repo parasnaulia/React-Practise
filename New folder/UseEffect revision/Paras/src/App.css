@@ -1,0 +1,14 @@
+.con
+{
+  background-color: aqua;
+  justify-content: center;
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+.pp
+{
+  margin: 10px 10px;
+  cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.Container
+{
+      justify-content: center;
+      margin: 10px 10px;
+      border: 2px solid black;
+      
+}
+.inner
+{
+      text-align: center;
+}

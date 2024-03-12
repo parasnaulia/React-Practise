@@ -1,0 +1,49 @@
+/* MessageApp.css */
+
+.message-app {
+      display: flex;
+      flex-direction: column;
+      max-width: 400px;
+      margin: auto;
+    }
+    
+    .message-list {
+      flex-grow: 1;
+      overflow-y: auto;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    
+    .message {
+      background-color: #f0f0f0;
+      padding: 10px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+    }
+    
+    .message-form {
+      display: flex;
+      background-color: #fff;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      overflow: hidden;
+      margin-top: 10px;
+    }
+    
+    .message-form input {
+      flex-grow: 1;
+      padding: 10px;
+      border: none;
+      outline: none;
+    }
+    
+    .message-form button {
+      padding: 10px;
+      background-color: #0077cc;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+    
